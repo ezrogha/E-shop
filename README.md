@@ -1,4 +1,4 @@
 # Eshop
-A server-side rendered E-commerce shop structured using the MVC design pattern
+A server-side rendered E-commerce shop structured with help of the MVC design pattern
 
 
