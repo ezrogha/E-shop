@@ -1,4 +1,4 @@
 # Eshop
-An e-commerce store created with NodeJs and EJS with the MVC design patterns
+A server-side rendered E-commerce shop structured using the MVC design pattern
 
 
